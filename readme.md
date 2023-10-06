@@ -21,6 +21,10 @@
 - [OpenZeppelin](https://openzeppelin.com)
 - [Solmate](https://github.com/transmissions11/solmate)
 
+## Other Related Awesome Lists
+
+- [Awesome Diamonds (ERC-2535)](https://github.com/mudgen/awesome-diamonds)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
