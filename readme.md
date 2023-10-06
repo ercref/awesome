@@ -4,6 +4,13 @@
 
 [TOC] 
 
+## Dev tools
+
+- [ethers.js](https://ethers.js)
+- [viem.sh](https://viem.sh/)
+- [hardhat](https://hardhat.org/)
+- [foundry](https://github.com/foundry-rs/foundry)
+
 ## dApp Starter Kits
 
 - [TurboEth](https://www.turboeth.xyz/)
