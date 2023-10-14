@@ -49,6 +49,8 @@
 
 - [ethernodes](https://www.ethernodes.org/)
 - [Client Diversity](https://clientdiversity.org/)
+- [Rated Network](https://www.rated.network/)
+- [Execution Diversity](https://execution-diversity.info/)
 
 
 ## Other Related Awesome Lists
