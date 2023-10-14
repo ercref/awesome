@@ -13,16 +13,21 @@
 - [viem.sh](https://viem.sh/)
 - [hardhat](https://hardhat.org/)
 - [foundry](https://github.com/foundry-rs/foundry)
+- [truffle](https://trufflesuite.com/) (currently being sunset)
 
-## dApp Starter Kits
+## Starter Kits
+### dApp Starter Kits
 
 - [TurboEth](https://www.turboeth.xyz/)
 - [Nexth](https://github.com/wslyvh/nexth)
 
-## Smart Contract Starter Kits
+### Smart Contract Starter Kits
 
 - [OpenZeppelin](https://openzeppelin.com)
 - [Solmate](https://github.com/transmissions11/solmate)
+- [Solady](https://github.com/Vectorized/solady)
+- [ERC721A](https://www.erc721a.org/)
+
 
 ## Ethereum References
 
