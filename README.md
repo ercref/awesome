@@ -47,7 +47,8 @@
 
 ### Stats
 
-- [Ethereum Mainnet Statistics](https://www.ethernodes.org/)
+- [ethernodes](https://www.ethernodes.org/)
+- [Client Diversity](https://clientdiversity.org/)
 
 
 ## Other Related Awesome Lists
