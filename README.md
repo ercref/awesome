@@ -27,7 +27,7 @@
 - [Solmate](https://github.com/transmissions11/solmate)
 - [Solady](https://github.com/Vectorized/solady)
 - [ERC721A](https://www.erc721a.org/)
-
+- [Snekmate](https://github.com/pcaversaccio/snekmate)
 
 ## Ethereum References
 
