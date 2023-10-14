@@ -24,6 +24,20 @@
 - [OpenZeppelin](https://openzeppelin.com)
 - [Solmate](https://github.com/transmissions11/solmate)
 
+## Ethereum References
+
+### EVM and Execution Layer
+
+- [Execution Specification](https://github.com/ethereum/execution-specs)
+- [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf): latest version is "BERLIN" VERSION 2bcdb2d – 2023-08-25
+- [evm.codes](https://www.evm.codes/?fork=shanghai), [source](https://github.com/smlxl/evm.codes)
+- [Ethereum.org EVM opcodes](https://ethereum.org/en/developers/docs/evm/opcodes/)
+- [ethervm.io](https://ethervm.io/)
+
+### Consensus Layer
+
+- [Consensus Specification](https://github.com/ethereum/consensus-specs)
+
 ## Other Related Awesome Lists
 
 - [Awesome Diamonds (ERC-2535)](https://github.com/mudgen/awesome-diamonds)
