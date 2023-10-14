@@ -29,10 +29,11 @@
 - [ERC721A](https://www.erc721a.org/)
 - [Snekmate](https://github.com/pcaversaccio/snekmate)
 
-## Ethereum References
+## Useful Ethereum References
 
 ### EVM and Execution Layer
 
+- [List of Execution Clients](https://ethereum.org/en/developers/docs/nodes-and-clients/#execution-clients)
 - [Execution Specification](https://github.com/ethereum/execution-specs)
 - [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf): latest version is "BERLIN" VERSION 2bcdb2d – 2023-08-25
 - [evm.codes](https://www.evm.codes/?fork=shanghai), [source](https://github.com/smlxl/evm.codes)
@@ -41,7 +42,13 @@
 
 ### Consensus Layer
 
+- [List of Consensus Clients](https://ethereum.org/en/developers/docs/nodes-and-clients/#consensus-clients)
 - [Consensus Specification](https://github.com/ethereum/consensus-specs)
+
+### Stats
+
+- [Ethereum Mainnet Statistics](https://www.ethernodes.org/)
+
 
 ## Other Related Awesome Lists
 
