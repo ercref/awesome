@@ -29,6 +29,10 @@
 - [ERC721A](https://www.erc721a.org/)
 - [Snekmate](https://github.com/pcaversaccio/snekmate)
 
+### Other Smart Contract related
+
+- [Useful Solidity Patterns by Dragonfly.xyz](https://github.com/dragonfly-xyz/useful-solidity-patterns)
+
 ## Useful Ethereum References
 
 ### EVM and Execution Layer
@@ -51,7 +55,6 @@
 - [Client Diversity](https://clientdiversity.org/)
 - [Rated Network](https://www.rated.network/)
 - [Execution Diversity](https://execution-diversity.info/)
-
 
 ## Other Related Awesome Lists
 
