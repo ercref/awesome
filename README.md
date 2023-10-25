@@ -20,6 +20,7 @@
 
 - [TurboEth](https://www.turboeth.xyz/)
 - [Nexth](https://github.com/wslyvh/nexth)
+- [The ThirdWeb](https://github.com/thirdweb-dev)
 
 ### Smart Contract Starter Kits
 
@@ -28,6 +29,7 @@
 - [Solady](https://github.com/Vectorized/solady)
 - [ERC721A](https://www.erc721a.org/)
 - [Snekmate](https://github.com/pcaversaccio/snekmate)
+- [Shipyard by OpenSea](https://github.com/ProjectOpenSea/shipyard-core)
 
 ### Other Smart Contract related
 
